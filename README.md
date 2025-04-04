@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Álex</h1>
 <h3 align="center">A future web developer and IT teacher from Spain</h3>
 
-- 🔭 I’m currently working on [a social network with @DaniVals and @monstahcode](https://github.com/DaniVals/Practica-DW2AES-2)
+- 🔭 I’m currently working on [an MTG card & deck manager website with @DaniVals and @monstahcode](https://github.com/DaniVals/TFG-FloatingMana)
 
 - 🌱 I’m currently learning **Symfony, JavaScript and Git.**
 
