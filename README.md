@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Álex</h1>
-<h3 align="center">A future web developer and IT teacher from Spain</h3>
+<h3 align="center">A web developer and future IT teacher from Spain</h3>
 
 - 🔭 I’m currently working on [an MTG card & deck manager web application with @DaniVals and @monstahcode](https://github.com/DaniVals/TFC-FloatingMana)
 
