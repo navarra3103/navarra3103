@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Álex</h1>
 <h3 align="center">A web developer and future IT teacher from Spain</h3>
 
-- 🔭 I’m currently working on [an MTG card & deck manager web application with @DaniVals and @monstahcode](https://github.com/DaniVals/TFC-FloatingMana)
+- 🔭 My most remarkable project is [an MTG card & deck manager web application with @DaniVals and @monstahcode](https://github.com/DaniVals/TFC-FloatingMana)
 
-- 🌱 I’m currently learning **Symfony, Docker and Linux.**
+- 🌱 I’m currently learning **how to use Github Copilot.**
 
-- 📫 How to reach me **never.mayomartin@educa.madrid.org**
+- 📫 Reach me at **nvr312003@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
